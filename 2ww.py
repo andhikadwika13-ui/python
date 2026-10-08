@@ -1,1 +1,1 @@
-wertyui
+print("lia")
