@@ -12,4 +12,6 @@ produk.update({"harga":7000000, "garansi":"2 tahun"})
 del produk["kategori"]
 
 if "garansi" in produk:
-    print("Garansi:", produk[garansi])
+    print("Garansi ada")
+else:
+    print("ga ada garansi")
